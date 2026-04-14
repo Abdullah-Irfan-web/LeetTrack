@@ -20,7 +20,7 @@ export default function Navbar() {
         </div>
 
       
-            <Link href="github.com">
+            <Link href="https://github.com/Abdullah-Irfan-web/LeetTrack">
 
             <Image src={githublogo}
             height={70}
